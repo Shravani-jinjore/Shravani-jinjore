@@ -5,13 +5,13 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Design+Head+%40+WLUG;100%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Main+Design+Head+%40+WLUG" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrawani-jinjore-703462330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shrawanij9696@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -91,7 +91,7 @@ A responsive e-commerce platform for indoor plants with user authentication, pro
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shravani-jinjore&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
