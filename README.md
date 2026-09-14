@@ -3,6 +3,8 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%2C%20I'm%20Shrawani%20Jinjore&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=IT%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Design%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="100"/>
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Design+Head+%40+WLUG;Solving+Problems%2C+One+Commit+at+a+Time" alt="Typing SVG" />
@@ -29,28 +31,17 @@
 
 ---
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nodejs,express,flask,postgres,mysql,git,linux,docker,githubactions&theme=dark" alt="tech stack"/>
 
 </div>
 
@@ -107,6 +98,16 @@ A RESTful Student Management API with full CRUD operations and secure, parameter
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shravani-jinore&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shravani-jinore/Shravani-jinore/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</div>
+
+> ⚙️ This lights up once you add the snake GitHub Action to your profile repo — say the word and I'll give you the exact workflow file to drop in.
 
 ---
 
