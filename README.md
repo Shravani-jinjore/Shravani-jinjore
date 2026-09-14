@@ -5,13 +5,13 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Main+Design+Head+%40+WLUG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Design+Head+%40+WLUG;Solving+Problems%2C+One+Commit+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrawani-jinjore-703462330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/shrawani-jinjore-703462330/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shrawanij9696@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -20,8 +20,12 @@
 
 ### About Me
 
-- 🎓 B.Tech in **Information Technology** (Minor in Data Interpretation & Analysis) @ **Walchand College of Engineering, Sangli**
-- 🌱 Exploring **open-source** and Linux
+- 🎓 B.Tech in **Information Technology** (Minor in Data Interpretation & Analysis) @ **Walchand College of Engineering, Sangli** — CGPA 8.09/10
+- 🎨 **Main Design Head** at Walchand Linux Users' Group (WLUG) — leading visual design for posters, stories & event creatives
+- 🌱 Exploring **open-source** and Linux, through WLUG sessions and discussions
+- 💻 Solved **100+ problems on LeetCode**
+- 🏆 Scored **99%** in the NPTEL certification *"Understanding Incubation and Entrepreneurship"*
+- ⚡ Fun fact: Ranked 1st in school for Class 10 (SSC Board)
 
 ---
 
@@ -44,6 +48,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
 </div>
@@ -54,10 +60,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-jinjore&layout=compact&theme=radical&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shravani-jinore&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravani-jinore&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravani-jinjore&theme=radical&hide_border=true" alt="streak stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravani-jinore&theme=radical&hide_border=true" alt="streak stats"/>
 
 </div>
 
@@ -68,20 +74,28 @@
 **🗓️ Invigilation Allocation Management System**
 Automates exam invigilation scheduling with a Greedy Algorithm for fair faculty workload distribution, a three-tier architecture with constraint validation/conflict detection, and CSV report generation.
 `React` `Node.js` `Express.js` `PostgreSQL`
-📎 [View on GitHub](https://github.com/YOUR-USERNAME/invigilation-allocation-management-system)
+📎 [View on GitHub](https://github.com/Shravani-jinore/invigilation-allocation-management-system)
 
 **🌿 IndoorPlants — Indoor Plant E-commerce Website**
 A responsive e-commerce platform for indoor plants with user authentication, product catalog, add-to-cart, and a custom animated frontend.
 `HTML` `CSS` `JavaScript` `Flask` `MySQL`
-📎 [View on GitHub](https://github.com/YOUR-USERNAME/indoorplants)
+📎 [View on GitHub](https://github.com/Shravani-jinore/indoorplants)
+
+**⚙️ Automated API Testing & CI/CD Pipeline**
+A RESTful Student Management API with full CRUD operations and secure, parameterized MySQL queries. Automated testing with Postman/Newman, containerized with Docker Compose, and wired into a GitHub Actions CI/CD pipeline that blocks deployment on test failure — verified via a live break/fix demo.
+`Node.js` `Express.js` `MySQL` `Docker` `GitHub Actions`
+📎 [View on GitHub](https://github.com/Shravani-jinore/automated-api-testing-cicd-pipeline)
 
 <div align="center">
 
-<a href="https://github.com/YOUR-USERNAME/invigilation-allocation-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=invigilation-allocation-management-system&theme=radical&hide_border=true"/>
+<a href="https://github.com/Shravani-jinore/invigilation-allocation-management-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shravani-jinore&repo=invigilation-allocation-management-system&theme=radical&hide_border=true"/>
 </a>
-<a href="https://github.com/YOUR-USERNAME/indoorplants">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=indoorplants&theme=radical&hide_border=true"/>
+<a href="https://github.com/Shravani-jinore/indoorplants">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shravani-jinore&repo=indoorplants&theme=radical&hide_border=true"/>
+</a>
+<a href="https://github.com/Shravani-jinore/automated-api-testing-cicd-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shravani-jinore&repo=automated-api-testing-cicd-pipeline&theme=radical&hide_border=true"/>
 </a>
 
 </div>
@@ -91,14 +105,14 @@ A responsive e-commerce platform for indoor plants with user authentication, pro
 ### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shravani-jinjore&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shravani-jinore&theme=radical&no-frame=true&row=1&column=7"/>
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=2575fc&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Shravani-jinore&color=2575fc&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" width="100%"/>
 
