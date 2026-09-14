@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Design+Head+%40+WLUG;Solving+Problems%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=600&lines=B.Tech+IT+%40+Walchand+College+of+Engineering;Building+Full-Stack+Web+Apps;Design+Head+%40+WLUG" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,12 +22,9 @@
 
 ### About Me
 
-- 🎓 B.Tech in **Information Technology** (Minor in Data Interpretation & Analysis) @ **Walchand College of Engineering, Sangli** — CGPA 8.09/10
-- 🎨 **Main Design Head** at Walchand Linux Users' Group (WLUG) — leading visual design for posters, stories & event creatives
-- 🌱 Exploring **open-source** and Linux, through WLUG sessions and discussions
-- 💻 Solved **100+ problems on LeetCode**
-- 🏆 Scored **99%** in the NPTEL certification *"Understanding Incubation and Entrepreneurship"*
-- ⚡ Fun fact: Ranked 1st in school for Class 10 (SSC Board)
+- 🎓 B.Tech in **Information Technology** (Minor in Data Interpretation & Analysis) @ **Walchand College of Engineering, Sangli**
+- 🎨 **Main Design Head** at Walchand Linux Users' Group
+- 🌱 Exploring **open-source** and Linux
 
 ---
 
