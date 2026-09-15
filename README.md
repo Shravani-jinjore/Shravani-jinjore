@@ -104,7 +104,6 @@ A RESTful Student Management API with full CRUD operations and secure, parameter
 <img src="https://raw.githubusercontent.com/Shravani-jinjore/Shravani-jinjore/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
-> ⚙️ This lights up once you add the snake GitHub Action to your profile repo — say the word and I'll give you the exact workflow file to drop in.
 
 ---
 
