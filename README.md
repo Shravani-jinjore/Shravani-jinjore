@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%2C%20I'm%20Shrawani%20Jinjore&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=IT%20Undergrad%20%7C%20Full-Stack%20Dev%20%7C%20Design%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%2C%20I'm%20Shrawani%20Jinjore&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=IT%20Undergrad%20%7C%20Full-Stack%20Dev%20" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Handshake.gif" width="100"/>
 
