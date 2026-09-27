@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nodejs,express,flask,postgres,mysql,git,linux,docker,githubactions&theme=dark" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,react,nodejs,express,flask,postgres,mysql,git,linux,docker,mongodb,githubactions&theme=dark" alt="tech stack"/>
 
 </div>
 
