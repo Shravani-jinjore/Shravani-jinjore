@@ -23,7 +23,6 @@
 ### About Me
 
 - 🎓 B.Tech in **Information Technology** (Minor in Data Interpretation & Analysis) @ **Walchand College of Engineering, Sangli**
-- 🎨 **Main Design Head** at Walchand Linux Users' Group
 - 🌱 Exploring **open-source** and **Linux**
 
 ---
